@@ -9,6 +9,7 @@ a:int = t.getBase()
 b:int = t.getAltura()
 
 print (a+b)
+print (a+b)
 
 m = Matrix(t)
 m.mostrar()
